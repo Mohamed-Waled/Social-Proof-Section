@@ -20,7 +20,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/a-social-proof-section-using-css-flexbox-and-grid-layout-system-HJt4a8cfq)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Social-Proof-Section/)
 
 ## My process
